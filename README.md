@@ -19,3 +19,4 @@ Alguns materiais que eu usei como base:
 ---
 
 Meu próprio vídeo explicando o código:
+- https://www.youtube.com/watch?v=YtYWroAPQCE
